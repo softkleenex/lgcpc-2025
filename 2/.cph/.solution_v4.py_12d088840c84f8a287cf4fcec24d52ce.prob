@@ -1,0 +1,1 @@
+{"name":"Local: solution_v4","url":"/Volumes/samsd/workspace_v2/study/lgcpc_2025/2/solution_v4.py","tests":[{"id":1757139916974,"input":"3\n5","output":"12"},{"id":1757139921543,"input":"3\n4860000","output":"465808830"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Volumes/samsd/workspace_v2/study/lgcpc_2025/2/solution_v4.py","group":"local","local":true}
