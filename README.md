@@ -6,7 +6,7 @@ Solutions to problems from the LG Code Pit 2025 programming competition. This re
 
 **Event**: LG Code Pit 2025
 **Host**: LG CNS
-**Date**: 2025.11
+**Date**: 2025.09.06
 **Language**: Python
 **Problems Attempted**: 4
 **Status**: ✅ Completed
@@ -223,5 +223,5 @@ This shows the realistic process of competitive programming problem-solving, inc
 
 📧 For questions about specific solutions, please open an issue.
 
-**Competition Date**: 2025.11
+**Competition Date**: 2025.09.06
 **Status**: ✅ Completed
